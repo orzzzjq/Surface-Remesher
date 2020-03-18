@@ -17,3 +17,4 @@ Please preinstall CGAL and Eigen, and compile it as a CUDA project.
 ---
 
 1. [Jiaqi Zheng and Tiow-Seng Tan. 2020. Computing Centroidal Voronoi Tessellation Using the GPU. In Symposium on Interactive 3D Graphics and Games (I3D ’20), May 5–7, 2020, San Francisco, CA, USA.](https://doi.org/10.1145/3384382.3384520)
+2. [Pierre Alliez, Éric Colin de Verdière, Olivier Devillers, Martin Isenburg. 2005. Centroidal Voronoi Diagrams for Isotropic Surface Remeshing. Graphical Models, Elsevier, 2005, 67 (3), pp.204-231.](https://hal.inria.fr/hal-00787166)
