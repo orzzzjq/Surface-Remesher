@@ -12,7 +12,7 @@ We use the following packages:
 3. [gCVT](https://www.comp.nus.edu.sg/~tants/cvt.html) to compute the centroidal Voronoi tessellation on the GPU;
 4. [gDel2D](https://www.comp.nus.edu.sg/~tants/gdel3d.html) to compute the constrained Delaunay triangulation on the GPU.
 
-Please install CGAL and Eigen, and compile it as a CUDA project.
+Please preinstall CGAL and Eigen, and compile it as a CUDA project.
 
 ---
 
