@@ -17,4 +17,4 @@ Please install CGAL and Eigen, and compile it as a CUDA project if you want to u
 ---
 References
 
-[Jiaqi Zheng and Tiow-Seng Tan. 2020. Computing Centroidal Voronoi Tessel-lation Using the GPU. InSymposium on Interactive 3D Graphics and Games(I3D ’20), May 5–7, 2020, San Francisco, CA, USA.](https://doi.org/10.1145/3384382.3384520)
+1. [Jiaqi Zheng and Tiow-Seng Tan. 2020. Computing Centroidal Voronoi Tessel-lation Using the GPU. InSymposium on Interactive 3D Graphics and Games(I3D ’20), May 5–7, 2020, San Francisco, CA, USA.](https://doi.org/10.1145/3384382.3384520)
